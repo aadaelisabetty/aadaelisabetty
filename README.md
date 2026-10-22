@@ -1,6 +1,6 @@
 # Aada Riihimäki
 
-Information Systems Student @JYU 
+Information Systems Science Student @JYU 
 
 
 ---
