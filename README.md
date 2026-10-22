@@ -1,16 +1,25 @@
-## Hi there 👋
+# Aada Riihimäki
 
-<!--
-**aadaelisabetty/aadaelisabetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Systems Student @JYU 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Loving using Python for all the basics 
+
+- 🔭 **Currently Building:** Modular systems for ML integration GEOINT tracking pipelines.
+- 📡 **Technical Domain:** Telemetry ingestion (UDP/WebSockets), network protocols, geofencing, and Linux CLI environments.
+- 🎓 **Studies:** Information Systems Science w/touch of Economics
+
+---
+
+ Core Stack & Tooling
+
+| Domain | Technologies & Standards |
+| :--- | :--- |
+| **Languages & Core** | Python (asyncio, pandas, shapely), SQL, Bash, C++ (ns-3 reading), JavaScript |
+| **C2 & Telemetry** | MAVLink, UDP/TCP sockets, Streamlit, Folium / Leaflet, QGIS |
+| **Infrastructure & Data** | Linux CLI, SQLite (3NF design), Git/GitHub, Docker basics |
+| **Domain Knowledge** | Aviation regulations (EASA/Traficom), SORA concepts, Network routing (ns-3) |
+
+
